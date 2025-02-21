@@ -16,7 +16,7 @@
    - 참고도서 출판사 : 이지스퍼블리싱
    - 참고도서 저자 및 역자 : 박응용 <br />
   ![참고도서](https://image.aladin.co.kr/product/31794/10/cover500/k362833219_1.jpg)
-5. Time & Place : Mon. 8 ~ 11 Class(: ~ :) / vILT(Zoom) or Offline(미래혁신관 101)
+5. Time & Place : Mon. 8 ~ 11 Class(16:30 ~ 19:50) / vILT(Zoom) or Offline(미래혁신관 101)
 6. Grading Policy
     - Weekly Journaling Report : 15%
     - Attendance : 25%
